@@ -160,6 +160,10 @@ wxComboBox::Popup()
 void
 wxComboBox::Dismiss()
 
+void
+wxComboBox::ChangeValue( string )
+    wxString string
+
 #endif
 
 void
